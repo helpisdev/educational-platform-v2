@@ -13,7 +13,7 @@
     "mongodb": "^4.3.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.15",
+    "nodemon": "^2.0.22",
     "prettier-standard": "^13.0.6"
   }
 }
